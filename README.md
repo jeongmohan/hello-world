@@ -1,3 +1,3 @@
 # hello-world
 
-# It is a first time user
+It is a first time user
